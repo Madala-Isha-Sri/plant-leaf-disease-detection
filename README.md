@@ -1,46 +1,83 @@
-📂 Files Included
-app.py → 🚀 Main application file (training + prediction)
+## 🌿 Leaf Disease Detection — CNN Image Classification
 
-train/ → 🗂️ Dataset folder
+### 📖 Project Description
 
-healthy/ 🍀
+This project is a deep learning–based web application that detects whether a plant leaf is **Healthy 🍃** or **Diseased 🦠** using a Convolutional Neural Network (CNN). The model is trained on a dataset of leaf images stored in two categories: healthy and diseased. After training, users can upload a leaf image through the frontend interface, and the system predicts its condition instantly with high accuracy. This helps in early detection of plant diseases and supports smart agriculture.
 
-diseased/ 🍂
+---
 
-uploads/ → 📥 Images uploaded by users
+### 📂 Project Structure
 
-temp.jpg → 🖼️ Sample test image
+```
+Leaf-Disease-Detection/
+│── app.py                # Main application (training + prediction)
+│── train/                # Dataset folder
+│    ├── healthy/         # Healthy leaf images
+│    └── diseased/        # Diseased leaf images
+│── uploads/              # User uploaded images
+│── temp.jpg              # Sample test image
+│── requirements.txt      # Required libraries
+│── README.md             # Project documentation
+```
 
-🛠️ Technologies Used
-🐍 Python
+---
 
-👁️ OpenCV
+### 🛠️ Technologies Used
 
-🤖 TensorFlow / Keras
+* 🐍 Python
+* 🤖 TensorFlow / Keras (CNN Model)
+* 👁️ OpenCV (Image Processing)
+* 🌐 Flask (Web Interface)
+* 🔢 NumPy
 
-🌐 Flask (for web interface)
+---
 
-▶️ How to Run
-1️⃣ Install required libraries
+### ▶️ How to Run the Project
 
+#### 1️⃣ Install Dependencies
+
+```bash
 pip install tensorflow opencv-python flask numpy
-2️⃣ Arrange dataset
-Place leaf images inside the train/ folder in two subfolders:
+```
 
-healthy
+#### 2️⃣ Prepare Dataset
 
-diseased
+Place images inside:
 
-3️⃣ Run the application
+* `train/healthy/` 🍀
+* `train/diseased/` 🍂
 
+#### 3️⃣ Run Application
+
+```bash
 python app.py
-4️⃣ Open in browser 🌐
-Go to: http://127.0.0.1:5000
+```
 
-5️⃣ Upload a leaf image 📤
+#### 4️⃣ Open in Browser 🌐
+
+Go to:
+
+```
+http://127.0.0.1:5000
+```
+
+#### 5️⃣ Upload Leaf Image 📤
+
 The system will display:
 
-🍃 Healthy Leaf
-or
+* 🍃 **Healthy Leaf**
+  or
+* 🦠 **Diseased Leaf**
 
-🦠 Diseased Leaf
+---
+
+### 🎯 Features
+
+✔️ Train model automatically
+✔️ Upload image from frontend
+✔️ Instant prediction
+✔️ Simple and user-friendly interface
+
+---
+
+If you want, I can also give you a **perfect GitHub README.md file**, **requirements.txt**, and a **project title + description for resume/LinkedIn** 🚀

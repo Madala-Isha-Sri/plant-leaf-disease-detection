@@ -14,10 +14,7 @@ Leaf-Disease-Detection/
 │── train/                # Dataset folder
 │    ├── healthy/         # Healthy leaf images
 │    └── diseased/        # Diseased leaf images
-│── uploads/              # User uploaded images
-│── temp.jpg              # Sample test image
-│── requirements.txt      # Required libraries
-│── README.md             # Project documentation
+
 ```
 
 ---

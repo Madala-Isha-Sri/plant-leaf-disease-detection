@@ -107,16 +107,3 @@ The model successfully classifies plant leaf images with good accuracy, showing 
 
 ---
 
-## 👩‍💻 Author
-
-**Isha Sri** 🌸
-B.Tech Student | Aspiring Full Stack Developer
-
----
-
-If you want, I can also make 🔥
-⭐ **SUPER ATTRACTIVE README (with emojis + centered headings)**
-⭐ **Short version for submission**
-⭐ **Resume project description**
-
-Just say 😄🌿

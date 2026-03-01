@@ -1,6 +1,4 @@
-Got you Isha Sri 💚 — **GitHub README without Installation & Setup**, clean and professional 🌿✨
 
----
 
 # 🌿 Plant Leaf Disease Detection using CNN
 

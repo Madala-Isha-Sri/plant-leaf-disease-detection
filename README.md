@@ -77,4 +77,4 @@ The system will display:
 
 ---
 
-If you want, I can also give you a **perfect GitHub README.md file**, **requirements.txt**, and a **project title + description for resume/LinkedIn** 🚀
+

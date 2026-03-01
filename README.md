@@ -1,84 +1,124 @@
-## 🌿 Leaf Disease Detection — CNN Image Classification
-
-### 📖 Project Description
-
-This project is a deep learning–based web application that detects whether a plant leaf is **Healthy 🍃** or **Diseased 🦠** using a Convolutional Neural Network (CNN). The model is trained on a dataset of leaf images stored in two categories: healthy and diseased. After training, users can upload a leaf image through the frontend interface, and the system predicts its condition instantly with high accuracy. This helps in early detection of plant diseases and supports smart agriculture.
+Got you Isha Sri 💚 — **GitHub README without Installation & Setup**, clean and professional 🌿✨
 
 ---
 
-### 📂 Project Structure
+# 🌿 Plant Leaf Disease Detection using CNN
 
-```
-Leaf-Disease-Detection/
-│── app.py                # Main application (training + prediction)
-│── train/                # Dataset folder
-│    ├── healthy/         # Healthy leaf images
-│    └── diseased/        # Diseased leaf images
+## 📌 Project Overview
 
-```
+This project detects whether a plant leaf is **Healthy 🍃** or **Diseased 🍂** using Deep Learning and Image Classification. A Convolutional Neural Network (CNN) is trained on leaf images to identify disease patterns automatically. The system provides predictions through a simple web interface where users upload a leaf image and receive instant results.
+
+Early detection of plant diseases helps reduce crop loss, improves agricultural productivity, and supports smart farming practices. This project demonstrates how artificial intelligence can assist farmers and researchers in monitoring plant health efficiently.
 
 ---
 
-### 🛠️ Technologies Used
+## 🎯 Features
+
+✅ Upload a leaf image from the frontend
+✅ Automatic model training using dataset
+✅ Real-time prediction
+✅ Displays uploaded image
+✅ Shows confidence score
+✅ Simple and user-friendly interface
+
+---
+
+## 🧠 How It Works
+
+1. Leaf images are organized into two categories:
+
+   * Healthy leaves 🍀
+   * Diseased leaves 🦠
+
+2. The CNN model learns important features such as:
+
+   * Color variations
+   * Spots and patches
+   * Texture differences
+   * Structural changes
+
+3. After training, the user uploads a new leaf image.
+
+4. The system analyzes the image and predicts:
+
+   * ✅ Healthy Leaf
+   * ❌ Diseased Leaf
+
+---
+
+## 🛠️ Technologies Used
 
 * 🐍 Python
-* 🤖 TensorFlow / Keras (CNN Model)
-* 👁️ OpenCV (Image Processing)
-* 🌐 Flask (Web Interface)
-* 🔢 NumPy
+* 🤖 TensorFlow / Keras
+* 👁️ OpenCV
+* 📊 NumPy
+* 🌐 Streamlit
 
 ---
 
-### ▶️ How to Run the Project
-
-#### 1️⃣ Install Dependencies
-
-```bash
-pip install tensorflow opencv-python flask numpy
-```
-
-#### 2️⃣ Prepare Dataset
-
-Place images inside:
-
-* `train/healthy/` 🍀
-* `train/diseased/` 🍂
-
-#### 3️⃣ Run Application
-
-```bash
-python app.py
-```
-
-#### 4️⃣ Open in Browser 🌐
-
-Go to:
+## 📂 Project Structure
 
 ```
-http://127.0.0.1:5000
+project/
+│
+├── app.py                # Main application file
+├── train/
+│   ├── healthy/          # Healthy leaf images
+│   └── diseased/         # Diseased leaf images
+└── README.md
 ```
-
-#### 5️⃣ Upload Leaf Image 📤
-
-The system will display:
-
-* 🍃 **Healthy Leaf**
-  or
-* 🦠 **Diseased Leaf**
-
----
-<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/25513ae7-1fdd-4eff-94d7-5923091d50d4" />
 
 ---
 
+## 📷 Usage
 
-### 🎯 Features
+Upload a plant leaf image through the interface. The system processes the image and instantly displays whether the leaf is healthy or diseased along with prediction confidence.
 
-✔️ Train model automatically
-✔️ Upload image from frontend
-✔️ Instant prediction
-✔️ Simple and user-friendly interface
+---
+
+## ✅ Results
+
+The model successfully classifies plant leaf images with good accuracy, showing the effectiveness of deep learning techniques in agricultural applications.
+
+---
+## OUTPUTS
+
+<img width="1280" height="404" alt="image" src="https://github.com/user-attachments/assets/29c32d81-4c63-451c-8a6b-2e181fa92bad" />
+
+---
+
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/7a93ab72-86ee-4f49-9c75-df3e6fa8b211" />
+
+---
+
+<img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/7aed834f-0a68-43cf-82a5-6e4ccad3280e" />
+
+---
+
+<img width="1280" height="809" alt="image" src="https://github.com/user-attachments/assets/d3558476-9224-405b-88b0-fad81c128e3c" />
 
 ---
 
 
+## 🌟 Future Scope
+
+* Detection of multiple plant diseases
+* Integration with mobile applications
+* Deployment for real-time field usage
+* Expansion with larger datasets for higher accuracy
+
+---
+
+## 👩‍💻 Author
+
+**Isha Sri** 🌸
+B.Tech Student | Aspiring Full Stack Developer
+
+---
+
+If you want, I can also make 🔥
+⭐ **SUPER ATTRACTIVE README (with emojis + centered headings)**
+⭐ **Short version for submission**
+⭐ **Resume project description**
+
+Just say 😄🌿

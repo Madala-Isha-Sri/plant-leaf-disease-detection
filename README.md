@@ -13,10 +13,15 @@ Early detection of plant diseases helps reduce crop loss, improves agricultural 
 ## 🎯 Features
 
 ✅ Upload a leaf image from the frontend
+
 ✅ Automatic model training using dataset
+
 ✅ Real-time prediction
+
 ✅ Displays uploaded image
+
 ✅ Shows confidence score
+
 ✅ Simple and user-friendly interface
 
 ---
@@ -101,17 +106,26 @@ The model successfully classifies plant leaf images with good accuracy, showing 
 ## 🌟 Future Scope
 
 * Detection of multiple plant diseases
+  
 * Integration with mobile applications
+  
 * Deployment for real-time field usage
+  
 * Expansion with larger datasets for higher accuracy
 
 ---
 ⭐ Advantages
+
 🌱 Early detection of plant diseases
+
 ⚡ Faster than manual inspection
+
 🎯 Reduces crop loss and improves yield
+
 🤖 Automated and accurate analysis
+
 👩‍🌾 Useful for farmers and researchers
+
 📱 Easy to use without technical knowledge
 ---
 🎯 Conclusion

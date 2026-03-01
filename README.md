@@ -106,4 +106,13 @@ The model successfully classifies plant leaf images with good accuracy, showing 
 * Expansion with larger datasets for higher accuracy
 
 ---
-
+⭐ Advantages
+🌱 Early detection of plant diseases
+⚡ Faster than manual inspection
+🎯 Reduces crop loss and improves yield
+🤖 Automated and accurate analysis
+👩‍🌾 Useful for farmers and researchers
+📱 Easy to use without technical knowledge
+---
+🎯 Conclusion
+This project demonstrates the effective use of deep learning in agriculture for automatic plant disease detection. By using CNN-based image classification, the system provides a fast, reliable, and user-friendly solution for identifying leaf health. It highlights the potential of artificial intelligence in improving farming practices and supporting smart agriculture initiatives.

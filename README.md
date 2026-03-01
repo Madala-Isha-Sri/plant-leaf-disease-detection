@@ -67,6 +67,10 @@ The system will display:
 * 🦠 **Diseased Leaf**
 
 ---
+<img width="1280" height="575" alt="image" src="https://github.com/user-attachments/assets/25513ae7-1fdd-4eff-94d7-5923091d50d4" />
+
+---
+
 
 ### 🎯 Features
 
